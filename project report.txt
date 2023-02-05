@@ -1,0 +1,9 @@
+API's Used : None
+
+Assets Used : None
+
+Libraries Used : opencv/cv2, mediapipe, cvzone, numpy, PIL, tkinter, math, os
+
+Everything is created during the hackathon period.
+
+Github Repo Link : https://github.com/Code-Hack-The-Boys/Project-GD.git
